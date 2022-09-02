@@ -10,11 +10,12 @@
         android:id="@+id/layoutTop"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <View
             android:id="@+id/topView"
             android:layout_width="match_parent"
-            android:layout_height="250dp"
-            android:background="@color/coloPrimary"/>
+            android:layout_height="300dp"
+            android:background="@color/coloPrimary" />
 
         <View
             android:layout_below="@+id/topView"
